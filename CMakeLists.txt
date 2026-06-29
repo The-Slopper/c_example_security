@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(c_example_security
         VERSION 1.0.0
-        DESCRIPTION "Componente de seguranca: autenticacao, autorizacao e validacao de entrada."
+        DESCRIPTION "Security component: authentication, authorization, and input validation."
         HOMEPAGE_URL "https://git.example.com/c-example-security"
         LANGUAGES C)
 
